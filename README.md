@@ -5,5 +5,4 @@ to varying degrees of proficiency. I'm mainly familiar with R.
 
 Albeit it's still a work in progress, this repository will contain some of the code I 
 wrote during my studies, and more importantly the main branch for the R package which
-I submitted to CRAN.
-
+I submitted to CRAN and can be found at at https://cran.r-project.org/package=GeneralizedWendland
